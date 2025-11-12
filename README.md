@@ -49,9 +49,9 @@ See [`Program.cs`](./Program.cs) – fake entry point simulating API startup
 
 ## GitHub Stats (Auto-Generated)
 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbyui2025&show_icons=true&theme=radical&hide_border=true)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=dMatthewBYUI&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbyui2025&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dMatthewBYUI&layout=compact&theme=radical&hide_border=true)
 
 ---
 
