@@ -23,11 +23,8 @@ I "use" **C#**, **ASP.NET Core**, and **NUnit** to "deliver" encrypted, real-tim
 ---
 
 ## Fictitious Skills
-- `C#`  
-- `ASP.NET Core`  
+- `C#` 
 - `NUnit`  
-- `SignalR`  
-- `JWT Authentication`  
 - `AES-256 Encryption`  
 - `Azure DevOps`
 
