@@ -1,4 +1,4 @@
-# Matt Smith
+# David Matthews
 
 > **⚠️ THIS IS A 100% FICTITIOUS PROFILE**  
 > Created **only** for BYU-Idaho W03 Portfolio Assignment.  
